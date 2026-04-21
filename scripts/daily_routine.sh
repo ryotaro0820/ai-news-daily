@@ -23,9 +23,8 @@ log "Running Claude news generation..."
     >> "$LOG_FILE" 2>&1
 
 if [ -f "$NEWS_FILE" ]; then
-    log "Sending email..."
-    python3 "$PROJECT_DIR/scripts/send_email.py" "$NEWS_FILE" "$DATE" \
-        >> "$LOG_FILE" 2>&1
+    log "Pushing to GitHub..."
+    git push github HEAD:main >> "$LOG_FILE" 2>&1
     log "=== Done ==="
 else
     log "ERROR: News file not found: $NEWS_FILE"
