@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-04-29 | [Google・Anthropicに400億ドル投資・GPT-5.5リリース・Claude Opus 4.7がベンチマーク首位 他](news/2026-04-29-ai-news.md) |
 | 2026-04-28 | [マスク対オルトマン裁判開廷・Stanford AI Index 2026・Google Anthropic 400億ドル投資・DeepSeek V4](news/2026-04-28-ai-news.md) |
 | 2026-04-27 | [Google Anthropic 400億ドル投資・DeepSeek V4公開・GPT-5.5リリース・Google Cloud Next エージェント時代宣言](news/2026-04-27-ai-news.md) |
 | 2026-04-26 | [DeepSeek V4プレビュー公開・Google→Anthropic400億ドル投資・OpenAI GPT-5.4エージェント機能 他](news/2026-04-26-ai-news.md) |
