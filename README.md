@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-04 | [Anthropic・OpenAIが同日エンタープライズAI合弁設立・ペンタゴンAI8社協定・Google Gemini Enterprise Agent Platform・MIT LLM学習2倍速化 他](news/2026-05-04-ai-news.md) |
 | 2026-05-03 | [Meta・ヒューマノイドロボットAI企業買収・Microsoft Agent 365 GA・Google I/O 2026直前情報・Anthropic評価額9000億ドル説 他](news/2026-05-03-ai-news.md) |
 | 2026-05-01 | [ペンタゴンAI契約7社締結・OpenAIマルチクラウド展開・Anthropic年収300億ドル突破・中国EV「AI軍拡」 他](news/2026-05-01-ai-news.md) |
 | 2026-04-30 | [ビッグテック決算・NVIDIA Nemotron 3 Nano Omni公開・OpenAIセキュリティ警告・EU AI規制交渉決裂 他](news/2026-04-30-ai-news.md) |
