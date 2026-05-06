@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-06 | [GPT-5.5 Instant デフォルト化・Anthropic 15億ドル合弁・米国防総省AI契約・TurboQuant研究 他](news/2026-05-06-ai-news.md) |
 | 2026-05-05 | [米政府がGoogle・Microsoft・xAI AIモデルを事前評価へ・Anthropic/OpenAI合弁が買収交渉・Claude Security公開ベータ・AI支援型サイバー攻撃が急増 他](news/2026-05-05-ai-news.md) |
 | 2026-05-04 | [Anthropic・OpenAIが同日エンタープライズAI合弁設立・ペンタゴンAI8社協定・Google Gemini Enterprise Agent Platform・MIT LLM学習2倍速化 他](news/2026-05-04-ai-news.md) |
 | 2026-05-03 | [Meta・ヒューマノイドロボットAI企業買収・Microsoft Agent 365 GA・Google I/O 2026直前情報・Anthropic評価額9000億ドル説 他](news/2026-05-03-ai-news.md) |
