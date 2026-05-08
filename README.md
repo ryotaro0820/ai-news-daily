@@ -5,7 +5,8 @@
 ## 記事一覧
 
 | 日付 | タイトル |
-|------|----------|
+|------|---------|
+| 2026-05-08 | [Claude Mythos サイバー「ヒステリー」・OpenAI AIスマートフォン量産加速・Google I/O 2026直前プレビュー・米AI事前評価義務化へ 他](news/2026-05-08-ai-news.md) |
 | 2026-05-07 | [GPT-5.5 Instant 全展開・Anthropic ARR 300億ドルで OpenAI 逆転・ハーバード研究AI>医師診断・米政府AI事前評価 他](news/2026-05-07-ai-news.md) |
 | 2026-05-06 | [GPT-5.5 Instant デフォルト化・Anthropic 15億ドル合弁・米国防総省AI契約・TurboQuant研究 他](news/2026-05-06-ai-news.md) |
 | 2026-05-05 | [米政府がGoogle・Microsoft・xAI AIモデルを事前評価へ・Anthropic/OpenAI合弁が買収交渉・Claude Security公開ベータ・AI支援型サイバー攻撃が急増 他](news/2026-05-05-ai-news.md) |
