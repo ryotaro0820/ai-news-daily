@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|---------|
+| 2026-05-10 | [Claude Code Auto Mode正式公開・Anthropicウォール街攻勢・Google I/O 2026直前情報・IBM Think 2026・Apple iOS AI拡張「Extensions」計画 他](news/2026-05-10-ai-news.md) |
 | 2026-05-09 | [Anthropic ARR 300億ドルでOpenAI逆転・OpenAI Broadcomチップ計画180億ドル難航・Nvidia AI投資400億ドル超・NASA火星探査にClaude活用 他](news/2026-05-09-ai-news.md) |
 | 2026-05-08 | [Claude Mythos サイバー「ヒステリー」・OpenAI AIスマートフォン量産加速・Google I/O 2026直前プレビュー・米AI事前評価義務化へ 他](news/2026-05-08-ai-news.md) |
 | 2026-05-07 | [GPT-5.5 Instant 全展開・Anthropic ARR 300億ドルで OpenAI 逆転・ハーバード研究AI>医師診断・米政府AI事前評価 他](news/2026-05-07-ai-news.md) |
