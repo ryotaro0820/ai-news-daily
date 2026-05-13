@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-13 | [Google Gemini Intelligence でAndroid刷新・Anthropic評価額9000億ドル調達交渉・Apple iOS 27 サードパーティーAI解禁・OpenAI Codex Chrome拡張・AIゼロデイ攻撃が現実に 他](news/2026-05-13-ai-news.md) |
 | 2026-05-12 | [OpenAI DeployCo 140億ドル設立・GoogleがAIハッカー阻止・Google I/O 2026（5/19）Gemini4直前情報・Elsevier対Meta提訴・CAIO設置76% 他](news/2026-05-12-ai-news.md) |
 | 2026-05-11 | [Anthropic Mythos EU問題・Apple iOS 27 AI選択機能「Extensions」・Nvidia 400億ドル超投資・Alphabet時価総額でNvidia逆転・CAIO設置76%急拡大 他](news/2026-05-11-ai-news.md) |
 | 2026-05-10 | [Claude Code Auto Mode正式公開・Anthropicウォール街攻勢・Google I/O 2026直前情報・IBM Think 2026・Apple iOS AI拡張「Extensions」計画 他](news/2026-05-10-ai-news.md) |
