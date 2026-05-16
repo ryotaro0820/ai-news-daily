@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-16 | [Google I/O 2026直前・Gemini Intelligence Android刷新・OpenAI GPT-5.5-Cyber EU開放・Anthropic 2000億ドルGoogle Cloud契約・CAIO設置76%急拡大 他](news/2026-05-16-ai-news.md) |
 | 2026-05-15 | [Anthropic Mythos「数万件の脆弱性」自律発見・CEOが危険を警告・Apple iOS 27 Extensions発表予定・OpenAI Codexスーパーアプリ化・AnthropicがARRでOpenAI逆転 他](news/2026-05-15-ai-news.md) |
 | 2026-05-14 | [Cerebras NASDAQ上場初日に株価2倍超・Apple iOS 27 AI全面開放（Gemini・Claude・ChatGPT）・Palo Alto「3〜5ヶ月でAI攻撃が常態化」警告・Anthropic Google/Broadcom提携・Google Gemini Androidエージェント化 他](news/2026-05-14-ai-news.md) |
 | 2026-05-13 | [Google Gemini Intelligence でAndroid刷新・Anthropic評価額9000億ドル調達交渉・Apple iOS 27 サードパーティーAI解禁・OpenAI Codex Chrome拡張・AIゼロデイ攻撃が現実に 他](news/2026-05-13-ai-news.md) |
