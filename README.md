@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-20 | [カーパシー氏Anthropic入社・Google I/O 2026開発者基調講演・SubQ初の準二次LLM登場・Anthropic 9000億ドル評価額調達交渉](news/2026-05-20-ai-news.md) |
 | 2026-05-19 | [Google I/O 2026開幕・Gemini Spark＆Omni発表・Anthropic評価額9000億ドル調達合意・Apple iOS 27 AI全面開放へ](news/2026-05-19-ai-news.md) |
 | 2026-05-18 | [Google I/O 2026前夜・Anthropic評価額9000億ドル調達交渉・Microsoft「18ヶ月でホワイトカラー自動化」・GPT-5.5 Instant デフォルト化 他](news/2026-05-18-ai-news.md) |
 | 2026-05-17 | [Google I/O 2026前夜・Gemini 4発表秒読み・Anthropic「Dreaming」エージェント自己学習・Apple iOS 27 AI全開放・OpenAI DeployCo始動 他](news/2026-05-17-ai-news.md) |
