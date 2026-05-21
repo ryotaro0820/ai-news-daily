@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-21 | [Google Gemini 3.5 Flash展開・AnthropicがSpaceX Colossus 1を丸ごと契約・OpenAI広告プラットフォームをセルフサーブ化・AnthropicのARR 440億ドル突破](news/2026-05-21-ai-news.md) |
 | 2026-05-20 | [カーパシー氏Anthropic入社・Google I/O 2026開発者基調講演・SubQ初の準二次LLM登場・Anthropic 9000億ドル評価額調達交渉](news/2026-05-20-ai-news.md) |
 | 2026-05-19 | [Google I/O 2026開幕・Gemini Spark＆Omni発表・Anthropic評価額9000億ドル調達合意・Apple iOS 27 AI全面開放へ](news/2026-05-19-ai-news.md) |
 | 2026-05-18 | [Google I/O 2026前夜・Anthropic評価額9000億ドル調達交渉・Microsoft「18ヶ月でホワイトカラー自動化」・GPT-5.5 Instant デフォルト化 他](news/2026-05-18-ai-news.md) |
