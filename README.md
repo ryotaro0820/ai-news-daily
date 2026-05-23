@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-23 | [OpenAIが80年来の数学難問を自律解明・IPO秒読み・Karpathy氏Anthropic入社・Jack Clark「12ヶ月以内にノーベル賞級発見」予測](news/2026-05-23-ai-news.md) |
 | 2026-05-22 | [OpenAI極秘S-1提出・AnthropicがColossus 1全GPU独占契約・Karpathy氏Anthropic入社・Q2黒字化目前](news/2026-05-22-ai-news.md) |
 | 2026-05-21 | [Google Gemini 3.5 Flash展開・AnthropicがSpaceX Colossus 1を丸ごと契約・OpenAI広告プラットフォームをセルフサーブ化・AnthropicのARR 440億ドル突破](news/2026-05-21-ai-news.md) |
 | 2026-05-20 | [カーパシー氏Anthropic入社・Google I/O 2026開発者基調講演・SubQ初の準二次LLM登場・Anthropic 9000億ドル評価額調達交渉](news/2026-05-20-ai-news.md) |
