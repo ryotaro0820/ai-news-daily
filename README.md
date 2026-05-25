@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-25 | [法王レオ14世がAI規制回勅発表・OpenAI80年来の数学難問を自律解明・カーパシー氏Anthropic入社・Anthropic ARR300億ドル突破](news/2026-05-25-ai-news.md) |
 | 2026-05-24 | [AnthropicとゲイツZ財団が2億ドルAIパートナーシップ締結・Stainless買収でSDK基盤掌握・Gemini Spark MCP連携・中国AIモデルOpenRouter61%独占](news/2026-05-24-ai-news.md) |
 | 2026-05-23 | [OpenAIが80年来の数学難問を自律解明・IPO秒読み・Karpathy氏Anthropic入社・Jack Clark「12ヶ月以内にノーベル賞級発見」予測](news/2026-05-23-ai-news.md) |
 | 2026-05-22 | [OpenAI極秘S-1提出・AnthropicがColossus 1全GPU独占契約・Karpathy氏Anthropic入社・Q2黒字化目前](news/2026-05-22-ai-news.md) |
