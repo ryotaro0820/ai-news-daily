@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-28 | [Anthropic300億ドル調達クローズ・法王レオ14世AI回勅「武装解除」要求・KPMG×Claude27万人展開・OpenAI IPO S-1提出・Karpathy氏Anthropic始動](news/2026-05-28-ai-news.md) |
 | 2026-05-27 | [Anthropic300億ドル調達クローズ・AI創造性テストで人間超え・OpenAI Codexロック中Mac操作・エルデシュ予想反証続報・Gemini Spark展開本格化](news/2026-05-27-ai-news.md) |
 | 2026-05-26 | [法王AI回勅への世界的反響・OpenAI極秘S-1提出・Anthropic Q2売上109億ドル予測・トランプ大統領AI行政命令撤回](news/2026-05-26-ai-news.md) |
 | 2026-05-25 | [法王レオ14世がAI規制回勅発表・OpenAI80年来の数学難問を自律解明・カーパシー氏Anthropic入社・Anthropic ARR300億ドル突破](news/2026-05-25-ai-news.md) |
