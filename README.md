@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-05-31 | [Karpathy氏Anthropic事前学習チーム始動・Claude Opus 4.8＆Dynamic Workflows公開・Anthropic評価額9000億ドル超・Google Gemini 3.5 Flash/Omni/Spark展開・OpenAI S-1極秘提出](news/2026-05-31-ai-news.md) |
 | 2026-05-30 | [ハサビス氏「AGI2029年も視野」・DeepSeek V4-Pro 75%値下げ恒久化・DuckDuckGo急増30%・AnthropicとOpenAI相次ぎIPO秒読み](news/2026-05-30-ai-news.md) |
 | 2026-05-29 | [Claude Opus 4.8電撃リリース・Dynamic Workflowsで並列エージェント制御・Figure AI 200時間無故障仕分け・Apple WWDC直前Siri大刷新プレビュー](news/2026-05-29-ai-news.md) |
 | 2026-05-28 | [Anthropic300億ドル調達クローズ・法王レオ14世AI回勅「武装解除」要求・KPMG×Claude27万人展開・OpenAI IPO S-1提出・Karpathy氏Anthropic始動](news/2026-05-28-ai-news.md) |
