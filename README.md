@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-04 | [Anthropic評価額9650億ドルIPO申請・トランプAI安全令・GitHub Copilotトークン課金炎上・LLMエージェント自律サイバー攻撃実証・SoftBank仏750億ユーロ投資](news/2026-06-04-ai-news.md) |
 | 2026-06-03 | [Microsoft MAIモデル7本発表・Anthropic評価額9650億ドルIPO申請・Gemini 3.5 Flash GA・GitHub Copilotトークン課金移行・米DoD96.9億ドルAI契約](news/2026-06-03-ai-news.md) |
 | 2026-06-01 | [NVIDIA RTX Spark PC向けAIチップ発表・Cognition AI 10億ドル調達・Karpathy氏Anthropic入社・OpenAI極秘S-1・EU AI法8月施行](news/2026-06-01-ai-news.md) |
 | 2026-05-31 | [Karpathy氏Anthropic事前学習チーム始動・Claude Opus 4.8＆Dynamic Workflows公開・Anthropic評価額9000億ドル超・Google Gemini 3.5 Flash/Omni/Spark展開・OpenAI S-1極秘提出](news/2026-05-31-ai-news.md) |
