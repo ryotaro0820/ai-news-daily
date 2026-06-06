@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-06 | [Anthropic IPO S-1極秘提出・評価額9650億ドル・トランプAI大統領令・GitHub Copilot炎上・米DoD96.9億ドルMicrosoft契約・Qwen3.7-Plus GA](news/2026-06-06-ai-news.md) |
 | 2026-06-05 | [ChatGPT Dreaming V3でメモリー刷新・Microsoft MAI-Thinking-1発表・Google Gemini 2.0 API停止・xAI Grok Imagine 1.5プレビュー](news/2026-06-05-ai-news.md) |
 | 2026-06-04 | [Anthropic評価額9650億ドルIPO申請・トランプAI安全令・GitHub Copilotトークン課金炎上・LLMエージェント自律サイバー攻撃実証・SoftBank仏750億ユーロ投資](news/2026-06-04-ai-news.md) |
 | 2026-06-03 | [Microsoft MAIモデル7本発表・Anthropic評価額9650億ドルIPO申請・Gemini 3.5 Flash GA・GitHub Copilotトークン課金移行・米DoD96.9億ドルAI契約](news/2026-06-03-ai-news.md) |
