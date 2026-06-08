@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-08 | [Apple WWDC 2026・Gemini搭載Siri刷新・ClaudeがiPhone初登場・iOS 27・ペンタゴンClaude代替検討・Google×SpaceX月9.2億ドル契約](news/2026-06-08-ai-news.md) |
 | 2026-06-07 | [Anthropic IPO10月上場濃厚・ChatGPT Dreaming V3展開・Microsoft MAIモデル7本詳報・LLMエージェント自律サイバー攻撃記録・Karpathy氏Anthropic入社](news/2026-06-07-ai-news.md) |
 | 2026-06-06 | [Anthropic IPO S-1極秘提出・評価額9650億ドル・トランプAI大統領令・GitHub Copilot炎上・米DoD96.9億ドルMicrosoft契約・Qwen3.7-Plus GA](news/2026-06-06-ai-news.md) |
 | 2026-06-05 | [ChatGPT Dreaming V3でメモリー刷新・Microsoft MAI-Thinking-1発表・Google Gemini 2.0 API停止・xAI Grok Imagine 1.5プレビュー](news/2026-06-05-ai-news.md) |
