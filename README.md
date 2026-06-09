@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-09 | [OpenAI IPO極秘申請・AnthropicARR300億ドル超・Microsoft MAI 7本・世界初LLMサイバー攻撃・Gemini 3.5 Pro 6月中](news/2026-06-09-ai-news.md) |
 | 2026-06-02 | [Anthropic極秘S-1提出・Microsoft Build 2026 Project Polaris＆Azure Agent Mesh・Gemini 3.5 Flash GA・OpenAI GPT-5.6予告](news/2026-06-02-ai-news.md) |
 | 2026-06-01 | [NVIDIA RTX Spark PC向けAIチップ発表・Cognition AI 10億ドル調達・Karpathy氏Anthropic入社・OpenAI極秘S-1・EU AI法8月施行](news/2026-06-01-ai-news.md) |
 | 2026-05-31 | [Karpathy氏Anthropic事前学習チーム始動・Claude Opus 4.8＆Dynamic Workflows公開・Anthropic評価額9000億ドル超・Google Gemini 3.5 Flash/Omni/Spark展開・OpenAI S-1極秘提出](news/2026-05-31-ai-news.md) |
