@@ -8,12 +8,14 @@
 |------|----------|
 | 2026-06-12 | [Claude Fable 5（Mythos）一般公開・SpaceX史上最大IPO本日上場・OpenAI IPO極秘申請・ホワイトハウスAI大統領令・Gemini 3.5 Pro間近・GitHub Copilot高騰問題](news/2026-06-12-ai-news.md) |
 | 2026-06-11 | [SpaceX史上最大IPO1株135ドル・OpenAI×Oracle Cloud提携・OpenAI/Anthropic IPO申請・Apple WWDC Gemini搭載Siri・Google×SpaceX月9.2億ドル契約・Anthropic ARR300億ドル突破](news/2026-06-11-ai-news.md) |
+| 2026-06-09 | [OpenAI IPO極秘申請・AnthropicARR300億ドル超・Microsoft MAI 7本・世界初LLMサイバー攻撃・Gemini 3.5 Pro 6月中](news/2026-06-09-ai-news.md) |
 | 2026-06-08 | [Apple WWDC 2026・Gemini搭載Siri刷新・ClaudeがiPhone初登場・iOS 27・ペンタゴンClaude代替検討・Google×SpaceX月9.2億ドル契約](news/2026-06-08-ai-news.md) |
 | 2026-06-07 | [Anthropic IPO10月上場濃厚・ChatGPT Dreaming V3展開・Microsoft MAIモデル7本詳報・LLMエージェント自律サイバー攻撃記録・Karpathy氏Anthropic入社](news/2026-06-07-ai-news.md) |
 | 2026-06-06 | [Anthropic IPO S-1極秘提出・評価額9650億ドル・トランプAI大統領令・GitHub Copilot炎上・米DoD96.9億ドルMicrosoft契約・Qwen3.7-Plus GA](news/2026-06-06-ai-news.md) |
 | 2026-06-05 | [ChatGPT Dreaming V3でメモリー刷新・Microsoft MAI-Thinking-1発表・Google Gemini 2.0 API停止・xAI Grok Imagine 1.5プレビュー](news/2026-06-05-ai-news.md) |
 | 2026-06-04 | [Anthropic評価額9650億ドルIPO申請・トランプAI安全令・GitHub Copilotトークン課金炎上・LLMエージェント自律サイバー攻撃実証・SoftBank仏750億ユーロ投資](news/2026-06-04-ai-news.md) |
 | 2026-06-03 | [Microsoft MAIモデル7本発表・Anthropic評価額9650億ドルIPO申請・Gemini 3.5 Flash GA・GitHub Copilotトークン課金移行・米DoD96.9億ドルAI契約](news/2026-06-03-ai-news.md) |
+| 2026-06-02 | [Anthropic極秘S-1提出・Microsoft Build 2026 Project Polaris＆Azure Agent Mesh・Gemini 3.5 Flash GA・OpenAI GPT-5.6予告](news/2026-06-02-ai-news.md) |
 | 2026-06-01 | [NVIDIA RTX Spark PC向けAIチップ発表・Cognition AI 10億ドル調達・Karpathy氏Anthropic入社・OpenAI極秘S-1・EU AI法8月施行](news/2026-06-01-ai-news.md) |
 | 2026-05-31 | [Karpathy氏Anthropic事前学習チーム始動・Claude Opus 4.8＆Dynamic Workflows公開・Anthropic評価額9000億ドル超・Google Gemini 3.5 Flash/Omni/Spark展開・OpenAI S-1極秘提出](news/2026-05-31-ai-news.md) |
 | 2026-05-30 | [ハサビス氏「AGI2029年も視野」・DeepSeek V4-Pro 75%値下げ恒久化・DuckDuckGo急増30%・AnthropicとOpenAI相次ぎIPO秒読み](news/2026-05-30-ai-news.md) |
