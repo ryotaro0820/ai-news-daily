@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-13 | [米政府がAnthropicのFable 5・Mythos 5を輸出管理で全面停止・Google Gemini 3.5 Pro今月中リリースへ・Microsoft MAI-Thinking-1詳報・OpenAI/Anthropic兆ドルIPOレース](news/2026-06-13-ai-news.md) |
 | 2026-06-11 | [SpaceX史上最大IPO1株135ドル・OpenAI×Oracle Cloud提携・OpenAI/Anthropic IPO申請・Apple WWDC Gemini搭載Siri・Google×SpaceX月9.2億ドル契約・Anthropic ARR300億ドル突破](news/2026-06-11-ai-news.md) |
 | 2026-06-08 | [Apple WWDC 2026・Gemini搭載Siri刷新・ClaudeがiPhone初登場・iOS 27・ペンタゴンClaude代替検討・Google×SpaceX月9.2億ドル契約](news/2026-06-08-ai-news.md) |
 | 2026-06-07 | [Anthropic IPO10月上場濃厚・ChatGPT Dreaming V3展開・Microsoft MAIモデル7本詳報・LLMエージェント自律サイバー攻撃記録・Karpathy氏Anthropic入社](news/2026-06-07-ai-news.md) |
