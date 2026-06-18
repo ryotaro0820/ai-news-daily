@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-18 | [G7サミットAI外交・米主導コアリション提案・SpaceX Cursor 600億ドル買収・Fable 5停止6日目・ホワイトハウスAI大統領令・インフラ容量危機](news/2026-06-18-ai-news.md) |
 | 2026-06-16 | [Fable 5・Mythos 5停止4日目・トランプ政権と協議難航・Gemini 3.5 Pro 6月末投入・OpenAI/Anthropic兆ドルIPO最新情報・Meta Vera Rubin 120億ドル契約・Snap 1,000人削減](news/2026-06-16-ai-news.md) |
 | 2026-06-14 | [Kimi K2.7-Code公開・Anthropic公開記録発表・GPT-5.6リーク・Mercury 2拡散型LLM・OpenAI/Anthropic IPOレース続報](news/2026-06-14-ai-news.md) |
 | 2026-06-13 | [米政府がAnthropicのFable 5・Mythos 5を輸出管理で全面停止・Google Gemini 3.5 Pro今月中リリースへ・Microsoft MAI-Thinking-1詳報・OpenAI/Anthropic兆ドルIPOレース](news/2026-06-13-ai-news.md) |
