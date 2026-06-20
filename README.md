@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-20 | [Fable 5停止8日目・払い戻し期限到来・Claude Code大幅更新・GPT-5.6リリース秒読み・Anthropic中国AI蒸留攻撃告発](news/2026-06-20-ai-news.md) |
 | 2026-06-19 | [Fable 5停止7日目・払い戻し期限迫る・Qwen3 Coder Next＆MiniMax M2.7リリース・Anthropic ARR470億ドルでOpenAI超え・DeepMind「AGI→ASI」57ページ論文](news/2026-06-19-ai-news.md) |
 | 2026-06-18 | [G7サミットAI外交・米主導コアリション提案・SpaceX Cursor 600億ドル買収・Fable 5停止6日目・ホワイトハウスAI大統領令・インフラ容量危機](news/2026-06-18-ai-news.md) |
 | 2026-06-16 | [Fable 5・Mythos 5停止4日目・トランプ政権と協議難航・Gemini 3.5 Pro 6月末投入・OpenAI/Anthropic兆ドルIPO最新情報・Meta Vera Rubin 120億ドル契約・Snap 1,000人削減](news/2026-06-16-ai-news.md) |
