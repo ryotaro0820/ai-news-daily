@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-22 | [Fable 5停止10日目「数日中に復旧」・Noam Shazeer OpenAI入社・ChatGPT市場シェア初の50%割れ・Microsoft MAI 7モデル発表](news/2026-06-22-ai-news.md) |
 | 2026-06-20 | [Fable 5停止8日目・払い戻し期限到来・Claude Code大幅更新・GPT-5.6リリース秒読み・Anthropic中国AI蒸留攻撃告発](news/2026-06-20-ai-news.md) |
 | 2026-06-19 | [Fable 5停止7日目・払い戻し期限迫る・Qwen3 Coder Next＆MiniMax M2.7リリース・Anthropic ARR470億ドルでOpenAI超え・DeepMind「AGI→ASI」57ページ論文](news/2026-06-19-ai-news.md) |
 | 2026-06-18 | [G7サミットAI外交・米主導コアリション提案・SpaceX Cursor 600億ドル買収・Fable 5停止6日目・ホワイトハウスAI大統領令・インフラ容量危機](news/2026-06-18-ai-news.md) |
