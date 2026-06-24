@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-24 | [Nex N2 Pro（397B MoE）&GLM-5.2リリース・Gemini 3.5 Pro 7月延期・ホワイトハウスAI大統領令詳報・Anthropic Claude Compliance API 28統合](news/2026-06-24-ai-news.md) |
 | 2026-06-23 | [Fable 5有料課金開始・GPT-5.5-Cyber「Patch the Planet」発表・SpaceX×Reflection AI 63億ドル契約・Gemini 3.5 Pro 今週GA秒読み](news/2026-06-23-ai-news.md) |
 | 2026-06-22 | [Fable 5停止10日目「数日中に復旧」・Noam Shazeer OpenAI入社・ChatGPT市場シェア初の50%割れ・Microsoft MAI 7モデル発表](news/2026-06-22-ai-news.md) |
 | 2026-06-20 | [Fable 5停止8日目・払い戻し期限到来・Claude Code大幅更新・GPT-5.6リリース秒読み・Anthropic中国AI蒸留攻撃告発](news/2026-06-20-ai-news.md) |
