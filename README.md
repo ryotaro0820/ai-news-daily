@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-06-28 | [Google DeepMind研究者6名流出・GPT-4.5サービス終了・Kimi K2.7 Code公開・OpenRouter Fusion発表・DeepMind AGI→ASI論文・米政府ゲートAI常態化](news/2026-06-28-ai-news.md) |
 | 2026-06-26 | [GPT-5.6（Sol・Terra・Luna）政府要請で限定公開・Anthropic Alibaba蒸留攻撃告発・OpenAI独自チップJalapeño発表・Google研究者流出加速・Anthropic初の黒字化目前](news/2026-06-26-ai-news.md) |
 | 2026-06-25 | [SpaceX×Cursor600億ドル買収進行中・Fable 5ペイウォール移行・OpenAI Maria AI創薬実証・Google人材流出でAlphabet株急落・ChatGPT市場シェア初の50%割れ](news/2026-06-25-ai-news.md) |
 | 2026-06-24 | [Nex N2 Pro（397B MoE）&GLM-5.2リリース・Gemini 3.5 Pro 7月延期・ホワイトハウスAI大統領令詳報・Anthropic Claude Compliance API 28統合](news/2026-06-24-ai-news.md) |
