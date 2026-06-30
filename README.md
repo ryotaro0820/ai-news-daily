@@ -9,24 +9,31 @@
 | 2026-06-30 | [xAI Grok 4.5プライベートベータ・GPT-5.6一般公開前進・Colorado AI法延期・Google DeepMind人材流出加速](news/2026-06-30-ai-news.md) |
 | 2026-06-29 | [米政府Mythos 5輸出規制部分解除・OpenAI Jalapeñoチップ発表・Anthropic Alibaba蒸留攻撃告発・Figma Motion ベータ公開・Gemini 2.5 Pro Deep Think首位](news/2026-06-29-ai-news.md) |
 | 2026-06-28 | [Google DeepMind研究者6名流出・GPT-4.5サービス終了・Kimi K2.7 Code公開・OpenRouter Fusion発表・DeepMind AGI→ASI論文・米政府ゲートAI常態化](news/2026-06-28-ai-news.md) |
+| 2026-06-27 | [Mythos 5政府管理下で100機関に限定解禁・GPT-4.5正式退役・GPT-5.6は7月へ延期・Alphabet2690億ドル株安・Apple iOS 27全面AI統合・Baseten15億ドル調達](news/2026-06-27-ai-news.md) |
 | 2026-06-26 | [GPT-5.6（Sol・Terra・Luna）政府要請で限定公開・Anthropic Alibaba蒸留攻撃告発・OpenAI独自チップJalapeño発表・Google研究者流出加速・Anthropic初の黒字化目前](news/2026-06-26-ai-news.md) |
 | 2026-06-25 | [SpaceX×Cursor600億ドル買収進行中・Fable 5ペイウォール移行・OpenAI Maria AI創薬実証・Google人材流出でAlphabet株急落・ChatGPT市場シェア初の50%割れ](news/2026-06-25-ai-news.md) |
 | 2026-06-24 | [Nex N2 Pro（397B MoE）&GLM-5.2リリース・Gemini 3.5 Pro 7月延期・ホワイトハウスAI大統領令詳報・Anthropic Claude Compliance API 28統合](news/2026-06-24-ai-news.md) |
 | 2026-06-23 | [Fable 5有料課金開始・GPT-5.5-Cyber「Patch the Planet」発表・SpaceX×Reflection AI 63億ドル契約・Gemini 3.5 Pro 今週GA秒読み](news/2026-06-23-ai-news.md) |
 | 2026-06-22 | [Fable 5停止10日目「数日中に復旧」・Noam Shazeer OpenAI入社・ChatGPT市場シェア初の50%割れ・Microsoft MAI 7モデル発表](news/2026-06-22-ai-news.md) |
+| 2026-06-21 | [Fable 5停止9日目・「数日以内に復旧」・Shazeer氏OpenAI移籍・ChatGPT市場シェア初の50%割れ・Gemini 3.5 Pro遅延・LLMエージェント自律攻撃記録](news/2026-06-21-ai-news.md) |
 | 2026-06-20 | [Fable 5停止8日目・払い戻し期限到来・Claude Code大幅更新・GPT-5.6リリース秒読み・Anthropic中国AI蒸留攻撃告発](news/2026-06-20-ai-news.md) |
 | 2026-06-19 | [Fable 5停止7日目・払い戻し期限迫る・Qwen3 Coder Next＆MiniMax M2.7リリース・Anthropic ARR470億ドルでOpenAI超え・DeepMind「AGI→ASI」57ページ論文](news/2026-06-19-ai-news.md) |
 | 2026-06-18 | [G7サミットAI外交・米主導コアリション提案・SpaceX Cursor 600億ドル買収・Fable 5停止6日目・ホワイトハウスAI大統領令・インフラ容量危機](news/2026-06-18-ai-news.md) |
+| 2026-06-17 | [G7サミットにAI企業CEO参加・SpaceX Cursor 600億ドル買収・OpenAI Deployment Simulation発表・アリババロボットAI初公開・Fable 5停止5日目](news/2026-06-17-ai-news.md) |
 | 2026-06-16 | [Fable 5・Mythos 5停止4日目・トランプ政権と協議難航・Gemini 3.5 Pro 6月末投入・OpenAI/Anthropic兆ドルIPO最新情報・Meta Vera Rubin 120億ドル契約・Snap 1,000人削減](news/2026-06-16-ai-news.md) |
+| 2026-06-15 | [AnthropicとOpenAI相次ぎIPO申請・Fable 5輸出規制で収益直撃・Claude Fable 5一般公開・OpenAI Sora廃止・Codexエンタープライズ全拡張](news/2026-06-15-ai-news.md) |
 | 2026-06-14 | [Kimi K2.7-Code公開・Anthropic公開記録発表・GPT-5.6リーク・Mercury 2拡散型LLM・OpenAI/Anthropic IPOレース続報](news/2026-06-14-ai-news.md) |
 | 2026-06-13 | [米政府がAnthropicのFable 5・Mythos 5を輸出管理で全面停止・Google Gemini 3.5 Pro今月中リリースへ・Microsoft MAI-Thinking-1詳報・OpenAI/Anthropic兆ドルIPOレース](news/2026-06-13-ai-news.md) |
+| 2026-06-12 | [Claude Fable 5（Mythos）一般公開・SpaceX史上最大IPO本日上場・OpenAI IPO極秘申請・ホワイトハウスAI大統領令・Gemini 3.5 Pro間近・GitHub Copilot高騰問題](news/2026-06-12-ai-news.md) |
 | 2026-06-11 | [SpaceX史上最大IPO1株135ドル・OpenAI×Oracle Cloud提携・OpenAI/Anthropic IPO申請・Apple WWDC Gemini搭載Siri・Google×SpaceX月9.2億ドル契約・Anthropic ARR300億ドル突破](news/2026-06-11-ai-news.md) |
+| 2026-06-09 | [OpenAI IPO極秘申請・AnthropicARR300億ドル超・Microsoft MAI 7本・世界初LLMサイバー攻撃・Gemini 3.5 Pro 6月中](news/2026-06-09-ai-news.md) |
 | 2026-06-08 | [Apple WWDC 2026・Gemini搭載Siri刷新・ClaudeがiPhone初登場・iOS 27・ペンタゴンClaude代替検討・Google×SpaceX月9.2億ドル契約](news/2026-06-08-ai-news.md) |
 | 2026-06-07 | [Anthropic IPO10月上場濃厚・ChatGPT Dreaming V3展開・Microsoft MAIモデル7本詳報・LLMエージェント自律サイバー攻撃記録・Karpathy氏Anthropic入社](news/2026-06-07-ai-news.md) |
 | 2026-06-06 | [Anthropic IPO S-1極秘提出・評価額9650億ドル・トランプAI大統領令・GitHub Copilot炎上・米DoD96.9億ドルMicrosoft契約・Qwen3.7-Plus GA](news/2026-06-06-ai-news.md) |
 | 2026-06-05 | [ChatGPT Dreaming V3でメモリー刷新・Microsoft MAI-Thinking-1発表・Google Gemini 2.0 API停止・xAI Grok Imagine 1.5プレビュー](news/2026-06-05-ai-news.md) |
 | 2026-06-04 | [Anthropic評価額9650億ドルIPO申請・トランプAI安全令・GitHub Copilotトークン課金炎上・LLMエージェント自律サイバー攻撃実証・SoftBank仏750億ユーロ投資](news/2026-06-04-ai-news.md) |
 | 2026-06-03 | [Microsoft MAIモデル7本発表・Anthropic評価額9650億ドルIPO申請・Gemini 3.5 Flash GA・GitHub Copilotトークン課金移行・米DoD96.9億ドルAI契約](news/2026-06-03-ai-news.md) |
+| 2026-06-02 | [Anthropic極秘S-1提出・Microsoft Build 2026 Project Polaris＆Azure Agent Mesh・Gemini 3.5 Flash GA・OpenAI GPT-5.6予告](news/2026-06-02-ai-news.md) |
 | 2026-06-01 | [NVIDIA RTX Spark PC向けAIチップ発表・Cognition AI 10億ドル調達・Karpathy氏Anthropic入社・OpenAI極秘S-1・EU AI法8月施行](news/2026-06-01-ai-news.md) |
 | 2026-05-31 | [Karpathy氏Anthropic事前学習チーム始動・Claude Opus 4.8＆Dynamic Workflows公開・Anthropic評価額9000億ドル超・Google Gemini 3.5 Flash/Omni/Spark展開・OpenAI S-1極秘提出](news/2026-05-31-ai-news.md) |
 | 2026-05-30 | [ハサビス氏「AGI2029年も視野」・DeepSeek V4-Pro 75%値下げ恒久化・DuckDuckGo急増30%・AnthropicとOpenAI相次ぎIPO秒読み](news/2026-05-30-ai-news.md) |
