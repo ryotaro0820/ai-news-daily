@@ -6,6 +6,7 @@
 
 | 日付 | タイトル |
 |------|----------|
+| 2026-07-01 | [Claude Sonnet 5全ユーザー展開・Fable 5輸出規制解除で再公開・Google Gemini 3.1 Flash Image首位・カリフォルニア州Poppy AI正式展開・CREATE AI法超党派通過](news/2026-07-01-ai-news.md) |
 | 2026-06-29 | [米政府Mythos 5輸出規制部分解除・OpenAI Jalapeñoチップ発表・Anthropic Alibaba蒸留攻撃告発・Figma Motion ベータ公開・Gemini 2.5 Pro Deep Think首位](news/2026-06-29-ai-news.md) |
 | 2026-06-28 | [Google DeepMind研究者6名流出・GPT-4.5サービス終了・Kimi K2.7 Code公開・OpenRouter Fusion発表・DeepMind AGI→ASI論文・米政府ゲートAI常態化](news/2026-06-28-ai-news.md) |
 | 2026-06-26 | [GPT-5.6（Sol・Terra・Luna）政府要請で限定公開・Anthropic Alibaba蒸留攻撃告発・OpenAI独自チップJalapeño発表・Google研究者流出加速・Anthropic初の黒字化目前](news/2026-06-26-ai-news.md) |
